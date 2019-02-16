@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd TIIGER
+screen -S TIIGER -X kill
+screen -S TIIGER ./TII
