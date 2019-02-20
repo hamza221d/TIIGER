@@ -6366,19 +6366,19 @@ send(msg.chat_id_, msg.id_, 1, (h4 or text), 1, 'html')
 end
 if text:match("^اصدار$") or text:match("^الاصدار$") or text:match("^السورس$") or text:match("^سورس$") then
 local text =  [[
-  📮¦اهلا بك في سورس بوت تايكر 
+  📮¦اهلا بك في سورس دولةة ، مَڪْــسِيـڪُوٍْ ' ¹⁰⁰ᵏ ' 🇲🇽 
 
-  📮¦<strong>TIIGER TEAM</strong>
+  📮¦<strong>MKSEKO TEAM</strong>
 
-  📮¦<a href="https://telegram.me/VO7OO">قناه السورس</a>
-  📮¦<a href="https://telegram.me/VO7OO">قناه شروحات سورس</a>
+  📮¦<a href="https://telegram.me/LE_C4_KR">قناه السورس</a>
+  📮¦<a href="https://telegram.me/LE_C4_KR">قناه شروحات سورس</a>
   📮¦<a href="https://t.me/LE_C4_KR">قناه ملفات السورس</a>
   📮¦<a href="https://t.me/syatibot">بوت صنع سايت</a>
   📮¦<a href="https://t.me/ZRR_1BOT">بوت الزخرفه</a>
 
 🔎┇<a href="https://t.me/P_PPPP"> لطلب كود التنصيب او شراء سورس بحقوق بوتك</a>
 
-📮┇<a href="t.me/EAAEE">لـ تواصل </a> 
+📮┇<a href="t.me/P_PPPP">لـ تواصل </a> 
 ]]
 send(msg.chat_id_, msg.id_, 1, text, 1, 'html')
 end
